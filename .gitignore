@@ -1,0 +1,19 @@
+# секреты — никогда не в репозиторий
+token.txt
+database_url.txt
+gemini.txt
+gemeni.txt
+*.zip
+
+# локальные данные и мусор
+saves/
+__pycache__/
+*.pyc
+asyncio.Lock
+dict
+Game
+InlineKeyboardMarkup
+None
+Path
+str
+tuple\[str

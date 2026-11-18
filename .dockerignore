@@ -1,0 +1,8 @@
+token.txt
+database_url.txt
+*.zip
+gemini.txt
+gemeni.txt
+saves/
+__pycache__/
+*.bat
